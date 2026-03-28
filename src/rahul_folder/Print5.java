@@ -11,5 +11,8 @@ public class Print5 {
 		System.out.println("AAAAAAAAAAAAAAAAAA");
 		System.out.println("AAAAAAAAAAAAAAAAAA");
 		System.out.println("AAAAAAAAAAAAAAAAAA");
+		
+		System.out.println("mobile mobile mobile");
+		System.out.println("mobile mobile mobile");
 	}
 }
