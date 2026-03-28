@@ -8,6 +8,9 @@ public class Hello {
 		
 		System.out.println("i have redmi note7pro");
 		System.out.println("today i will get a delivery");
+
+		System.out.println("today is saturday");
 		
+
 	}
 }
