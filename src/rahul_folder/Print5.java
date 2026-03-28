@@ -6,5 +6,6 @@ public class Print5 {
 		System.out.println("12345");
 		System.out.println("12345");
 		System.out.println("12345");
+		System.out.println("rahul rahul rahul");
 	}
 }
