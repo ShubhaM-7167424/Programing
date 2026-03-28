@@ -8,8 +8,10 @@ public class Print5 {
 		System.out.println("12345");
 		System.out.println("rahul rahul rahul");
 
+
 		System.out.println("tiger tiger tiger");
-		System.out.println("tiger tiger tiger");
-		System.out.println("tiger tiger tiger");
+	
+		System.out.println("lion lion lion");
+
 	}
 }
