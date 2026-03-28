@@ -7,5 +7,9 @@ public class Print5 {
 		System.out.println("12345");
 		System.out.println("12345");
 		System.out.println("rahul rahul rahul");
+
+		System.out.println("AAAAAAAAAAAAAAAAAA");
+		System.out.println("AAAAAAAAAAAAAAAAAA");
+		System.out.println("AAAAAAAAAAAAAAAAAA");
 	}
 }
